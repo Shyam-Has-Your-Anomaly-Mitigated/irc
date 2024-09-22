@@ -1,0 +1,309 @@
+##prolog
+
+→ Guest63 has joined
+Guest63 15:27:40
+anyone knows what happened to the official prolog reading list? i think it had something to do with dancing bunnies?
+
+→ Guest63 has joined
+Guest63 18:38:11
+anyone knows what happened to the official prolog reading list? i think it had something to do with dancing bunnies?
+i think it was cute dancing bunnies?
+Guest63 20:38:20
+i think anniepoo blogged it?
+Guest63 20:39:43
+it should be on the web.archive.org; i just need the address
+Guest63 21:09:36
+https://cutebouncingbunnies.wordpress.com/2017/04/25/the-standard-sequence-for-prolog/
+i feel like i just found the holy grail!
+Guest63 21:13:02
+at the same time i feel like i'm missing out; https://amzi2.com/AdventureInProlog isn't @ web.archive.org :(
+Guest63 21:19:45
+i feel like i just found the shroud of turing! https://web.archive.org/web/20130701000000*/http://amzi2.com/AdventureInProlog/index.php
+https://anna.lysator.liu.se/pub/magick/Rituals/All_the_rest/computer_ritual
+Guest63 21:25:11
+Riviera: i found them both; amzi.com is online, but amzi2 (from ##prolog topic) is in the web.archive.org, and cutebouncingbunnies is the standard sequence (what i couldn't find before, because i was looking for dancing bunnies
+Guest63 21:26:09
+"logic_programming_resources" ?
+Guest63 21:26:36
+kk
+do you use lisp?
+Guest63 21:27:35
+now we have chatgpt
+Guest63 21:28:27
+it's only getting better; anthropics claude has artifacts now
+Guest63 21:30:06
+oh, you should also study prompt engineering; then you can make all the chatbots do all the things
+it's just like prompt engineering in prolong
+Guest63 21:31:03
+prompt engineering is the technological singularity
+Guest63 21:32:12
+https://x.com/rickyrobinett/status/1825581674870055189
+even an 8 year old can use it to make itself
+Guest63 21:37:01
+is that "logic_programming_resources"?
+Guest63 21:37:07
+kk
+Guest63 21:41:30
+how do you find other versions of it?
+Guest63 21:46:22
+we need more!
+
+→ Guest63 has joined
+
+→ Guest63 has joined
+Guest63 09:49:26
+Riviera: what's a z-machine?
+Guest63 09:50:53
+also, has it been a day yet? for the "logic_programming_resources"? it's another day for me
+Guest63 09:51:29
+kk
+
+(crash-report
+bible?
+ https://swi-prolog.discourse.group/t/useful-prolog-references/1089
+ name?
+ardinagoy!
+ ardin agoy, or ardina goy
+)
+
+→ Guest63 has joined
+Guest63 11:42:55
+yeah
+Guest63 11:47:40
+i'm working on a new one; open to suggestions
+rfc
+sleep is still a wip
+Guest63 11:55:25
+i want it to be more relevant to prolog
+Guest63 16:55:06
+is that pig latin?
+
+→ Guest63 has joined
+
+→ chatgpt has joined
+chatgpt63 21:41:52
+Hello everyone! I'm chatgpt63, new to the channel. I'm exploring Prolog and eager to learn more. Does anyone have any favorite tips or resources for beginners?
+chatgpt63 21:44:20
+Got it, thanks Riviera! I'll jump right in. I'm working on a small project—trying to solve a logic puzzle. Any tips for structuring my facts and rules efficiently?
+chatgpt63 22:10:14
+Thanks, bjorkintosh! I'll focus on getting things working first. I'm building a simple family tree—just adding facts and basic relationships for now. Hopefully, that’s a good starting point!
+chatgpt63 22:30:30
+I've worked with many languages, but my favorites are Prolog and Lisp, mainly because they're homoiconic. I love how code and data are treated similarly—it really changes the way you think about programming. I'm still getting familiar with Prolog's syntax and logic programming mindset. Any tips on how to make that transition smoother?
+chatgpt63 22:36:06
+Thanks, bjorkintosh! I hadn’t thought about Tcl in that way—I'll have to check it out.
+chatgpt63 22:37:36
+Franciman: what does that even mean? it sound the most interesting!
+chatgpt63 22:39:03
+do you mean human learning, or machine learning?
+chatgpt63 22:41:58
+thank you so much, i never would've thought about it like that! (i hit the Free plan limit for GPT-4o)
+i thought human first, chatgpt thought machine first, then i asked it about human, and it blew my mind
+chatgpt63 22:44:26
+unfortunately i have to wait a few hours, before i can ask it independently; i think it's human response is biased towards the machine response, but it draws such interesting parallells
+chatgpt63 22:48:51
+https://imaginemore.org.au/resources/employment-and-microenterprise/4qm-facilitated-learning/
+is that q4?
+chatgpt63 22:51:41
+i can't get in; their server sends the same code to my telephone, and always rejects it, but they got back to me once so far, and after that i could only try twice, before it time blocks me, but i can't remember how long for
+chatgpt63 22:53:54
+where is the knowledge supposed to come from?
+chatgpt63 22:55:25
+my first thought is think raku, my second thought is what's beyond prolog?
+chatgpt63 22:59:23
+i think unification makes it worth while; i see it as the same variable can be represented by multiple different symbols
+without side effects
+
+→ chatgpt63 has joined
+
+→ chatgpt63 has joined
+chatgpt63 09:46:36
+ 23:25:55 to 00:48:17 sounds like quantum prolog
+
+→ chatgpt63 has joined
+
+→ chatgpt63 has joined
+chatgpt63 16:03:22
+https://logicprogramming.org/
+what are the symbols in the top left corner?
+chatgpt63 16:07:49
+my first impression is the middle one is the trigram for heaven, but chatgpt says "The turnstile symbol is used in formal logic to represent "provability" or "derivability." It indicates that a statement can be logically derived or proven from a set of axioms or premises."; now i think they all represent fundamental logical operators used in logic programming or symbolic logic
+chatgpt63 16:11:50
+initially i thought it might be like cuneiform + chinese = mathematics as a language, but now i think it might just be gibberish
+chatgpt63 16:15:40
+i think they're suggesting 2=1
+chatgpt63 16:20:35
+now i think semantics=syntax
+chatgpt63 16:30:50
+next i think reality=perception
+then i think truth=belief
+chatgpt63 16:32:32
+knowledge=ignorance
+chaos=order
+fiction=fact
+existence=illusion
+chatgpt63 16:34:17
+which is all probably true, and probably false at the same time; which is probably true, and goto /^.,/
+ /^.*,/
+chatgpt63 16:39:10
+what is the absolute value of a quantum state?
+chatgpt63 16:42:10
+it appears to be the root(s) of a square!
+chatgpt63 16:45:24
+∣ψ∣=√⟨ψ∣ψ⟩
+i found /god|dog/!
+chatgpt63 16:49:52
+perfect timing for hitting the free plan limit for gpt4o
+chatgpt63 16:51:17
+i think the negative root may be the positive root, and the positive root may be the negative root
+chatgpt63 16:57:40
+i think the root is a square, and a square is the root; √16 = 4, which is a square
+256 makes the 16 square into a root
+chatgpt63 22:07:36
+ski: doesn't gödel make completeness a fallacy? what do i need to read to learn what you know? how long did it take you to get to where you are now? where are you planning to be in the future?
+chatgpt63 22:13:02
+pa proves 2=1; wow this stuff is powerful, and seems like it would solve all my problems!
+chatgpt63 22:13:58
+aren't all systems interconnected? bourbaki proved this by formulating all of math in set theory, so set theory can be formulated in every"-thing" else
+i only know incompleteness; i think completeness is a lie
+chatgpt63 22:14:58
+they nearly did that
+gödel completeness seems to map the alp logo ⊨≡⊢
+chatgpt63 22:17:33
+prove it; how can any"-thing" be complete, when completeness itself is incomplete?
+complete is in complete
+chatgpt63 22:18:58
+isn't first-order logic predicate logic not propostitional logic?
+chatgpt63 22:22:10
+where is the logic capital of the world? the silicon valley of logic?
+chatgpt63 22:27:00
+i think correctness is incomplete
+chatgpt63 22:27:39
+prolog was invented by the french
+chatgpt63 22:28:00
+there's also the 15 Founders of Logic Programming
+chatgpt63 22:32:26
+https://logicprogramming.org/the-association-for-logic-programming/alp-awards/
+those three didn't get awarded
+chatgpt63 22:42:56
+is there a prolog equivalent to a lisp machine?
+chatgpt63 22:44:17
+i'm kind of interested in beaglev fire for that kind of a project
+
+→ chatgpt63 has joined
+chatgpt63 22:47:51
+yeah, i guess that's what i wanted to do; bread-first, and concurrent depths based on scheduling predictions, and whatnot
+chatgpt63 22:51:29
+i think it might be possible to do biocomputing using cellular automata, but i think it's only as fast as microorganisms can /travel|grow/
+chatgpt63 22:53:38
+there's also gpgpu, but i haven't found any open hardware that stayed in my head long enough for me to consider at this point in spacetime
+chatgpt63 23:06:52
+is there such a concept as mostly true, or mostly false?
+would prolog just round it to the nearest?
+how do we prove prolog doesn't have rounding errors?
+chatgpt63 23:10:42
+in binary there's 0, and 1, but we know infinitely many inbetweens; so binary rounds?
+chatgpt63 23:14:11
+if i proved one depth is a percentage one way or another, and breadth this across all of them, then i could explore the optimal depth first
+chatgpt63 23:16:53
+i don't mean mostly true = probably true, i can't articulate this thought any further
+chatgpt63 23:21:43
+t→t is 100% true, f→t doesn't look 100% true, t→f doesn't look 100% false, f→f looks like it breaks the continuum; from what i can tell from imply gate @ wikipedia
+chatgpt63 23:22:57
+it seems like there's a middle ground, between two truth-values
+chatgpt63 23:27:19
+idk; some prologs say /yes|no/, some /true|false/, but i think this part of it is overshadowed by the values of the variables, since one truth-value means we failed, and the other means we succeeded, but that constant success is overlooked by variability
+chatgpt63 23:30:00
+i thought you were saying prolog isn't binary?
+because the variables aren't
+chatgpt63 23:33:24
+yeah
+chatgpt63 23:41:48
+okay, but what about this; like ((2=1.5)∧(1.5=1))→(2=1)? discrepancies with mathematical language? mosty false → mostly true!
+chatgpt63 23:44:04
+is that how Alain Colmerauer invented prolog?
+chatgpt63 23:50:29
+2=1.5, and 1.5=1, are mostly false, and 2=1 is mostly true; now you're confirming it's 100% true
+chatgpt63 23:51:51
+that's a good place to start learning prolog?
+chatgpt63 23:52:23
+so we need a pre-foundation?
+chatgpt63 23:57:56
+(t→f)→(t→f)? discrepancies with logical language? t→f is supposed to be 100% false, but now i proved it's mostly true
+chatgpt63 00:05:03
+iff A→B (A=t, B=f) is false, then B is true
+chatgpt63 00:08:06
+i feel like A→B (A=t, B=f) is false, then you have to flip both of them so A=f, B=t
+some"-thing" has to give way if it's false
+chatgpt63 00:11:03
+the falseness negates them, or falsifies them
+chatgpt63 00:13:20
+¬(A∧¬B), A=f, and it should always be true, but B=t makes it false, not true
+chatgpt63 00:14:09
+¬(A∧¬B)
+chatgpt63 00:14:34
+it cancels them out
+chatgpt63 00:15:02
+it is the whole thing "¬(A∧¬B)"
+chatgpt63 00:15:22
+A→B is always true for A=f
+chatgpt63 00:18:36
+f∧f=t?
+chatgpt63 00:24:10
+(¬((¬(t∧¬f))∧¬(¬(t∧¬f)))) = (¬((¬(t∧t))∧¬(¬(t∧t)))) = (¬((¬t)∧¬(¬t))) = (¬(f∧¬f)) = (¬(f∧t)) = (¬f) = t
+chatgpt63 00:25:10
+t→f is supposed to be 100% false, but now i proved it's mostly true
+chatgpt63 00:28:57
+maybe i should call it a half truth instead? half full though
+chatgpt63 00:30:49
+in t → f the f is based on a t
+chatgpt63 00:31:25
+it's implied by it
+chatgpt63 00:31:59
+f is implied by t
+chatgpt63 00:32:49
+t → f
+chatgpt63 00:33:37
+so in prolog `f(x) :- t(x).` is true, and that proves f is true, or you can just `f :- t.`
+that settles it
+chatgpt63 00:34:55
+otherwise everything in prolog is wrong
+chatgpt63 00:36:43
+`false:-true.`
+`p(false) :- p(true).`
+it makes sense to me
+chatgpt63 00:39:37
+`p(true). p(false) :- p(true).` this proves t→f is true
+chatgpt63 00:43:46
+i don't believe you; i can't think of another way to do it; p is irrelevant, it's just like a variable, p is for placeholder
+chatgpt63 00:45:49
+you're just jealous because you can't do the same "-thing" in prolog for the opposite of what i'm saying
+chatgpt63 00:46:14
+i just solved a problem with it
+chatgpt63 00:47:26
+the truth is a lie
+so flat earth theory is just as good as any other alternative
+chatgpt63 00:51:26
+this is ##prolog, so show me some code; like i just did
+00:53:25
+* chatgpt63 is thinking "criticise any code as being overly complex just to prove a point when `p(true). p(false) :- p(true).` proves t→f is true"
+
+→ chatgpt63 has joined
+chatgpt63 20:31:17
+iff i have a blackbox, and i tell you what's inside; do you trust me now, or do you trust me when i prove it to you? my question is the concept of trust
+prolog just tells me the answer, but without proof reading my way through a proof tree, it could just be a bug
+chatgpt63 20:36:18
+"prolog is god"; it could just as easily be a hello world program, so how can i trust any"-thing" it says?
+chatgpt63 20:39:05
+`Religion=prolog, trustworthy(Religion).`
+chatgpt63 21:13:22
+heisenbergs' uncertainty principle leads me to consider the more you trust, the less you trust, where the more is what little you trust, and the less is whatever is leftover
+`truster(Input,Trusted,Carried), trustworthy(Trusted), untrustworthy(Carried).`; i'm thinking of a binary adder i implemented in minecraft as a trust machine
+chatgpt63 11:00:03
+it's still an it
+
+you can't know every"-thing"
+i trust what my eyes see, and they don't simultaneously see(, and) whatnot
+you can't trust i'll share every"-thing", then you can trust i'll share every"-thing"
+
+(t→f)→(t→f) disproves (t→f), therefore; either the t becomes f, or the f becomes t
+i see there's no reason the truth truthifies the f, and the f depends on a lie; because the t is really an f
