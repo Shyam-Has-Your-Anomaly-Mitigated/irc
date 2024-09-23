@@ -9,4 +9,4 @@ we live in a topsy turvy probability where the novelty of jailbreaking for nukes
 
 i feel like idiocracy (2006); (auto)clicking the refresh button on chatgpt is like headbutting the atm machine, but in a smart way, because only chatgpt knows the intelligent way
 
-@least c̄ google, we can know the address s/bar/prompt/; with chatgpt we don't even know…knowing
+@least c̄(omittreasure) google, we can know the address s/bar/prompt/; with chatgpt we don't even know…knowing
