@@ -16,6 +16,7 @@
 # flying picnic bedsheet, clouDY IGLOO, hagrids' "monkey" book (chapters on "spanking"), eagle 4eyed owls in flying bird formation, flying over a chocolate dessert (implying digital rain)
 # my brain is ahead of its' ttime; the technology isn't ready for what i'm holding back, and probably never will be
 # finger guns probably need uncensored gen "art"
+# slow and steady wins the race, so a teenage mutant ninja squirtle coaster (4o is so much more useful than 4omini; flat disc to put cups on to protect surface? it's like having a robot do my exercise for me!!! :D)
 
 # Check if a filename is provided
 my $msg = "Usage: $*PROGRAM <filename> <mode>\n";
