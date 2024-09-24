@@ -4,6 +4,7 @@
 # eta: when chatgpt4o returns (after i use it for future maybes; oh, nevermind, it's got a 3 hour delay already #jit!), and i remember
 # make a new readingclub repo c̄ eupl @radical, but maybe call it reading.den instead, or even reading.lib #tla #promptengineeringupskills
 # next ocr (next github will have a delay; then my system dies, and i lose every"-thing"!!! :D)
+# todo: get colours, or formally assume black background (aka dark mode; debian gnome-disks version is white mode by defautl)
 
 # Check if a filename is provided
 my $msg = "Usage: $*PROGRAM <filename> <mode>\n";
