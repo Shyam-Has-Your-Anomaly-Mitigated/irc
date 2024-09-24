@@ -13,7 +13,7 @@
 # maybe portranspile to lisp, and embed @browser; custom colours (default is dark mode, or whatever the hell goes well with the porn), fonts (default is OpenDyslexic), dimensions (hyperdefault), speed reader (default is mine; a real human),..
 # jungle den in a canopy bush, with a chai mug topped by latte art, nerdy reading glasses (half /full|empty/, like a sailing semimoon monocle split by muhammad), aladdins' burning magic lamp (the whole "-thing" is on fire), carpet of "grass", with her ass, passing gas #waltzing_matilda_who_fucking_KILLED_her #CENSORESHIP
 # finger gunning (fingering the latte artistic pussy (cat)), unbosomed, hermione, dickheaded worm in the apple ibook grow (from seed), shirt that says she has a "bearded lady" with an "arrow pointing down"
-# flying picnic bedsheet, clouDY IGLOO, hagrids' "monkey" book (chapters on "spanking"), eagle 4eyed owls in flying bird formation
+# flying picnic bedsheet, clouDY IGLOO, hagrids' "monkey" book (chapters on "spanking"), eagle 4eyed owls in flying bird formation, flying over a chocolate dessert (implying digital rain)
 # my brain is ahead of its' ttime; the technology isn't ready for what i'm holding back, and probably never will be
 
 # Check if a filename is provided
