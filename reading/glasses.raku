@@ -5,6 +5,7 @@
 # eta: when chatgpt4o returns (after i use it for future maybes; oh, nevermind, it's got a 3 hour delay already #jit!), and i remember
 # make a new readingclub repo c̄ eupl @radical, but maybe call it reading.den (https://youtu.be/xfQM4cRXho8?t=13m37s) instead, or even reading.lib #tla #promptengineeringupskills
  # wū ai gen safe for work porn you can imagine @4o!!! :D
+  # i could never find these, now i don't need to; i can have my cake, and eat it too
  # so the website will have prompt(reading den, cosy, pretty girls with lovely long hair curled up reading a book with a massive mug of tea next to them, oversized (like alice; alpha privative a?), chai, traffic out the window iff there is a window, imagination bleeding out of the pages versus i know kung fu versus whatnot,..)
 # next ocr (next github will have a delay; then my system dies, and i lose every"-thing"!!! :D)
 # todo: get colours, or formally assume black background (aka dark mode; debian gnome-disks version is white mode by defautl)
