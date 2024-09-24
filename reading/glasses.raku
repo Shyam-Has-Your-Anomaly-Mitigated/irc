@@ -1,7 +1,7 @@
 #!/usr/bin/env raku
 # official name: "geeky glasses" (pronounced "geeky glassez")
 # official motto: "i know kung fu!!! :D"
-# official usecases: slow reading (for comprehensional self-improvement), flashcards (for memorising an ordered list of lines; `shuf`), checklist (How to Beat Procrastination Like It Owes You Money; make the pain of inaction greater than the pain of action),..
+# official usecases: slow reading (for comprehensional self-improvement), flashcards (for memorising an ordered list of lines; `shuf`), checklist (How to Beat Procrastination Like It Owes You Money; make the pain of inaction greater than the pain of action), ask chatgpt (file uploads),..
 # todo: implement a sense of timing mechanism; both reading time, and typing time
 # eta: when chatgpt4o returns (after i use it for future maybes; oh, nevermind, it's got a 3 hour delay already #jit!), and i remember
 # make a new readingclub repo c̄ eupl @radical, but maybe call it reading.den (https://youtu.be/xfQM4cRXho8?t=13m37s) instead, or even reading.lib #tla #promptengineeringupskills
