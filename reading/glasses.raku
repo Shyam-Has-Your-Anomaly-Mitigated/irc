@@ -1,5 +1,5 @@
 #!/usr/bin/env raku
-# official name: "geeky glasses" (pronounced "geeky glassez"; as in "i wear geeky glasses", or "i need my geeky glasses", because do you have the need? the need for read! the need to read is the subtle sequel that has no"-thing" to do c̄ the sesesequel, because it hasn't happened yet, and time travel is dangerous; my plots cause irl paradoxes!)
+# official name: "geeky glasses" (pronounced "geeky glassez"; as in "i wear geeky glasses", or "i need my geeky glasses", or "you need geeky glasses", because do you have the need? the need for read! the need to read is the subtle sequel that has no"-thing" to do c̄ the sesesequel, because it hasn't happened yet, and time travel is dangerous; my plots cause irl paradoxes!)
 # official motto: "i know kung fu!!! :D" (man of chai tea readings)
 # official usecases: slow reading (for comprehensional self-improvement), flashcards (for memorising an ordered list of lines; `shuf`), checklist (How to Beat Procrastination Like It Owes You Money; make the pain of inaction greater than the pain of action), ask chatgpt (file uploads),..
 # todo: implement a sense of timing mechanism; both reading time, and typing time
