@@ -3,6 +3,7 @@
 # todo: implement a sense of timing mechanism; both reading time, and typing time
 # eta: when chatgpt4o returns (after i use it for future maybes; oh, nevermind, it's got a 3 hour delay already #jit!), and i remember
 # make a new readingclub repo c̄ eupl @radical, but maybe call it reading.den instead, or even reading.lib #tla #promptengineeringupskills
+# next ocr (next github will have a delay; then my system dies, and i lose every"-thing"!!! :D)
 
 # Check if a filename is provided
 my $msg = "Usage: $*PROGRAM <filename> <mode>\n";
