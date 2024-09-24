@@ -11,6 +11,7 @@
 # todo: get colours, or formally assume black background (aka dark mode; debian gnome-disks version is white mode by defautl)
 # maybe portranspile to lisp, and embed @browser; custom colours (default is dark mode, or whatever the hell goes well with the porn), fonts (default is OpenDyslexic), dimensions (hyperdefault), speed reader (default is mine; a real human),..
 # jungle den in a canopy bush, with a chai mug topped by latte art, nerdy reading glasses (half /full|empty/, like a sailing semimoon monocle split by muhammad), aladdins' burning magic lamp (the whole "-thing" is on fire), carpet of "grass", with her ass, passing gas #waltzing_matilda_who_fucking_KILLED_her #CENSORESHIP
+# finger gunning (fingering the latte artistic pussy (cat)), unbosomed, hermione, dickheaded worm in the apple ibook grow (from seed), shirt that says she has a "bearded lady" with an "arrow pointing down"
 
 # Check if a filename is provided
 my $msg = "Usage: $*PROGRAM <filename> <mode>\n";
