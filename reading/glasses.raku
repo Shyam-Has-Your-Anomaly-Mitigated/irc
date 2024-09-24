@@ -15,6 +15,7 @@
 # finger gunning (fingering the latte artistic pussy (cat)), unbosomed, hermione, dickheaded worm in the apple ibook grow (from seed), shirt that says she has a "bearded lady" with an "arrow pointing down"
 # flying picnic bedsheet, clouDY IGLOO, hagrids' "monkey" book (chapters on "spanking"), eagle 4eyed owls in flying bird formation, flying over a chocolate dessert (implying digital rain)
 # my brain is ahead of its' ttime; the technology isn't ready for what i'm holding back, and probably never will be
+# finger guns probably need uncensored gen "art"
 
 # Check if a filename is provided
 my $msg = "Usage: $*PROGRAM <filename> <mode>\n";
