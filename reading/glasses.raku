@@ -1,6 +1,7 @@
 #!/usr/bin/env raku
-# motto "i know kung fu!!! :D"
-# usecases: slow reading (for comprehensional self-improvement), flashcards (for memorising an ordered list of lines; `shuf`), checklist (How to Beat Procrastination Like It Owes You Money; make the pain of inaction greater than the pain of action),..
+# official name: "geeky glasses" (pronounced "geeky glassez")
+# official motto: "i know kung fu!!! :D"
+# official usecases: slow reading (for comprehensional self-improvement), flashcards (for memorising an ordered list of lines; `shuf`), checklist (How to Beat Procrastination Like It Owes You Money; make the pain of inaction greater than the pain of action),..
 # todo: implement a sense of timing mechanism; both reading time, and typing time
 # eta: when chatgpt4o returns (after i use it for future maybes; oh, nevermind, it's got a 3 hour delay already #jit!), and i remember
 # make a new readingclub repo c̄ eupl @radical, but maybe call it reading.den (https://youtu.be/xfQM4cRXho8?t=13m37s) instead, or even reading.lib #tla #promptengineeringupskills
@@ -13,6 +14,7 @@
 # jungle den in a canopy bush, with a chai mug topped by latte art, nerdy reading glasses (half /full|empty/, like a sailing semimoon monocle split by muhammad), aladdins' burning magic lamp (the whole "-thing" is on fire), carpet of "grass", with her ass, passing gas #waltzing_matilda_who_fucking_KILLED_her #CENSORESHIP
 # finger gunning (fingering the latte artistic pussy (cat)), unbosomed, hermione, dickheaded worm in the apple ibook grow (from seed), shirt that says she has a "bearded lady" with an "arrow pointing down"
 # flying picnic bedsheet, cloud igloo, hagrids' "monkey" book (chapters on "spanking"), eagle 4eyed owls in flying bird formation
+# my brain is ahead of its' ttime; the technology isn't ready for what i'm holding back, and probably never will be
 
 # Check if a filename is provided
 my $msg = "Usage: $*PROGRAM <filename> <mode>\n";
