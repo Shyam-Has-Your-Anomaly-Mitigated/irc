@@ -17,6 +17,7 @@
 # my brain is ahead of its' ttime; the technology isn't ready for what i'm holding back, and probably never will be
 # finger guns probably need uncensored gen "art"
 # slow and steady wins the race, so a teenage mutant ninja squirtle coaster (4o is so much more useful than 4omini; flat disc to put cups on to protect surface? it's like having a robot do my exercise for me!!! :D) withdrawing from the sandy (bottom) bank (my search bubble doesn't include sandy bottoms -_- i have my doubts about genart)
+# visual /nerdgasm|geekgasm/ thought bubble made of /water|soap|../ bubbles
 
 # Check if a filename is provided
 my $msg = "Usage: $*PROGRAM <filename> <mode>\n";
