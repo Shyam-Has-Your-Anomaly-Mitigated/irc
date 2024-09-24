@@ -9,6 +9,7 @@
  # so the website will have prompt(reading den, cosy, pretty girls with lovely long hair curled up reading a book with a massive mug of tea next to them, oversized (like alice; alpha privative a?), chai, traffic out the window iff there is a window, imagination bleeding out of the pages versus i know kung fu versus whatnot,..)
 # next ocr (next github will have a delay; then my system dies, and i lose every"-thing"!!! :D)
 # todo: get colours, or formally assume black background (aka dark mode; debian gnome-disks version is white mode by defautl)
+# maybe portranspile to lisp, and embed @browser; custom colours (default is dark mode, or whatever the hell goes well with the porn), fonts (default is OpenDyslexic), dimensions (hyperdefault), speed reader (default is mine; a real human),..
 
 # Check if a filename is provided
 my $msg = "Usage: $*PROGRAM <filename> <mode>\n";
