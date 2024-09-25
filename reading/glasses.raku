@@ -26,6 +26,7 @@
 # geeky glasses is /secretly|mystically/ training for /(cyber)terrorist|ass-as-sin|ninja/ one-liners; one-look + one-type (no \b, unless it's no err; no historical arrows, because typing makes you better #optimalist)
 # i have an apple, i have a head, i have an arrow #dedication #total_immersion #inception
 # my reading den is just an upsidedown sleeping bag, with the hood draped over my laptop; /firey|fire?ie/ pages
+# telephonic smart candle light
 
 # Check if a filename is provided
 my $msg = "Usage: $*PROGRAM <filename> <mode>\n";
