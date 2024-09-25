@@ -21,6 +21,7 @@
 # altden: sand castle (sand fireplace), tree house, under the tree, at the end of the rainbow, scuba, maid, two (concrete) shoes, goat eating the goat book (gboat), book worm undergrounden, pussy boxen, forest clearing, jungle book tree top, temple of reading,..
 # temple of reading; we absorb like a sponge, we worship the book of (p)ages, vow of s(h)ilence (while speaking improves comprehension, it also slows us down; geeky glasses makes speaking redundant), in the grand calculus of the multivolume, book burning (yajna to the gods, and godesses, of reading; only the good ones? the good, and the bad; brahmagupta says no"-thing" < 0),..
 # sacred places: reading den, library, bookshop, books (especially when reading; because our mind is in a sacred place),..
+# neuroplasticity kicks in, while specifying in the small, and makes summarising in the large redundant; especially if s/geeky glasses/diff/ for reproducible builds (specifying in the large)
 
 # Check if a filename is provided
 my $msg = "Usage: $*PROGRAM <filename> <mode>\n";
