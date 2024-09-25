@@ -2,7 +2,7 @@
 # official name: "geeky glasses" (pronounced "geeky glassez"; as in "i wear geeky glasses", or "i need my geeky glasses", or "you need geeky glasses", or "dude, where's my geeky glasses?", because do you have the need? the need for read! the need to read is the subtle sequel that has no"-thing" to do c̄ the sesesequel, because it hasn't happened yet, and time travel is dangerous; my plots cause irl paradoxes!)
 # official motto: "i know kung fu!!! :D" (man of chai tea readings)
 # official usecases: slow reading (for comprehensional self-improvement), flashcards (for memorising an ordered list of lines; `shuf`), checklist (How to Beat Procrastination Like It Owes You Money; make the pain of inaction greater than the pain of action), ask chatgpt (file uploads),..
-# todo: implement a sense of timing mechanism; both reading time, and typing time
+# todo: implement a sense of timing mechanism; both reading time, (maybe add a delay here, or multitasking, or task switching,..), and typing time
 # eta: when chatgpt4o returns (after i use it for future maybes; oh, nevermind, it's got a 3 hour delay already #jit!), and i remember
 # make a new readingclub repo c̄ eupl @radical, but maybe call it reading.den (https://youtu.be/xfQM4cRXho8?t=13m37s) instead, or even reading.lib #tla #promptengineeringupskills
  # wū ai gen safe for work porn you can imagine @4o!!! :D
