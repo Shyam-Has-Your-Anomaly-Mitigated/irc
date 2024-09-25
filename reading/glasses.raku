@@ -24,6 +24,7 @@
 # neuroplasticity kicks in, while specifying in the small, and makes summarising in the large redundant; especially if s/geeky glasses/diff/ for reproducible builds (specifying in the large)
 # not a temple of language; we don't care what those symbols mean, we just care they entered our brain, and we can regurgitate them in perfection #dotadiw #flow
 # geeky glasses is /secretly|mystically/ training for /(cyber)terrorist|ass-as-sin|ninja/ one-liners; one-look + one-type (no \b, unless it's no err; no historical arrows, because typing makes you better #optimalist)
+# i have an apple, i have a head, i have an arrow #dedication #total_immersion #inception
 
 # Check if a filename is provided
 my $msg = "Usage: $*PROGRAM <filename> <mode>\n";
