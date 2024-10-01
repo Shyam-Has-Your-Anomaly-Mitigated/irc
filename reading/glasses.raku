@@ -1,5 +1,6 @@
 #!/usr/bin/env raku
 # official name: "geeky glasses" (pronounced "geeky glassez"; as in "i wear geeky glasses", or "i need my geeky glasses", or "you need geeky glasses", or "dude, where's my geeky glasses?", because do you have the need? the need for read! the need to read is the subtle sequel that has no"-thing" to do c̄ the sesesequel, because it hasn't happened yet, and time travel is dangerous; my plots cause irl paradoxes!)
+ # the foley is squeaky glasses
 # official motto: "i know kung fu!!! :D" (man of chai tea readings)
 # official usecases: slow reading (for comprehensional self-improvement), flashcards (for memorising an ordered list of lines; `shuf`), checklist (How to Beat Procrastination Like It Owes You Money; make the pain of inaction greater than the pain of action), ask chatgpt (file uploads),..
 # todo: implement a sense of timing mechanism; both reading time, (maybe add a delay here, or multitasking, or task switching,..), and typing time
@@ -28,6 +29,7 @@
 # my reading den is just an upsidedown sleeping bag, with the hood draped over my laptop; /firey|fire?ie/ pages
 # telephonic smart candle light
 # shower den (already did under the tree with floral reefs); tiling semi-cubic (in every way, shape, and/or form), /tablet|(waterproof|hydrophobic (sprayed)?|laminated) book/ (this one comes from generative porn; kneeling under shower prompts a half-height shower, and i read between the pixellated lines of pixels)
+# googly eyes on (a pair of) sweet cheeks (the other pair; those aren't technically cheeks, a little further), with head buried in the godlen sandy book treasure(s)
 
 # Check if a filename is provided
 my $msg = "Usage: $*PROGRAM <filename> <mode>\n";
