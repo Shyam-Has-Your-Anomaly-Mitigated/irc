@@ -27,6 +27,7 @@
 # i have an apple, i have a head, i have an arrow #dedication #total_immersion #inception
 # my reading den is just an upsidedown sleeping bag, with the hood draped over my laptop; /firey|fire?ie/ pages
 # telephonic smart candle light
+# shower den (already did under the tree with floral reefs); tiling semi-cubic (in every way, shape, and/or form), /tablet|(waterproof|hydrophobic (sprayed)?) book/ (this one comes from generative porn; kneeling under shower prompts a half-height shower, and i read between the pixellated lines of pixels)
 
 # Check if a filename is provided
 my $msg = "Usage: $*PROGRAM <filename> <mode>\n";
