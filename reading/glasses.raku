@@ -29,6 +29,7 @@
 # my reading den is just an upsidedown sleeping bag, with the hood draped over my laptop; /firey|fire?ie/ pages
 # telephonic smart candle light
 # shower den (already did under the tree with floral reefs); tiling semi-cubic (in every way, shape, and/or form), /tablet|(waterproof|hydrophobic (sprayed)?|laminated) book/ (this one comes from generative porn; kneeling under shower prompts a half-height shower, and i read between the pixellated lines of pixels)
+ # kneeling kitchden, cookbook edition #genporn
 # googly eyes on (a pair of) sweet cheeks (the other pair; those aren't technically cheeks, a little further), with head buried in the godlen sandy book treasure(s)
 
 # Check if a filename is provided
