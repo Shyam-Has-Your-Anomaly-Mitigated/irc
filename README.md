@@ -14,4 +14,4 @@ i feel like idiocracy (2006); (auto)clicking the refresh button on chatgpt is li
 ...
 
 killer sudoku, the movie; play 'til you die
-the end, sudoku death; it all adds up
+the end, sudoku death; it all adds up iff you do the math
