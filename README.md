@@ -16,3 +16,9 @@ i feel like idiocracy (2006); (auto)clicking the refresh button on chatgpt is li
 killer sudoku, the movie; play 'til you die
 
 the end, sudoku death; it all adds up (iff you do the math)
+
+killer sudoku, gamified; thisssequel reveals it's all by design #meta
+
+killer sudoku, killed; the end of (killer) sudoku (no really, all forms of sudoku are taboo; until it makes a come back as the inescapable superintelligence behind the scenes that's been running the show since the prequel)
+
+killer zudoku, (/chipped|nlp|subliminal hypnotised|suggested|placebo|../; occasional tie-ins) brainz; it's a bit like upgrade + neuralink
