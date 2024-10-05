@@ -22,3 +22,15 @@ killer sudoku, gamified; thisssequel reveals it's all by design #meta
 killer sudoku, killed; the end of (killer) sudoku (no really, all forms of sudoku are taboo; until it makes a come back as the inescapable superintelligence behind the scenes that's been running the show since the prequel)
 
 killer zudoku, (/chipped|nlp|subliminal hypnotised|suggested|placebo|../; occasional tie-ins) brainz; it's a bit like upgrade + neuralink
+
+killer sudoku, universal; type 4° of separation
+
+killer sudoku, multiversal; type 5° of separation
+
+killer sudoku, interdimensional; type 6° of separation
+
+killer sudoku, god mode
+
+killer sudoku, /the afterlife|i love my killer (sudoku)?/
+
+killer sudoku, the s stands for isaac; irobot, itelephone, ithis, ithat
