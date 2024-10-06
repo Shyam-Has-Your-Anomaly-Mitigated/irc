@@ -34,3 +34,7 @@ killer sudoku, god mode
 killer sudoku, /the afterlife|i love my killer (sudoku)?/
 
 killer sudoku, the s stands for isaac; irobot, itelephone, ithis, ithat
+
+...
+
+life = placebo
